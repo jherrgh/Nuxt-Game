@@ -1,5 +1,9 @@
 # Nuxt-Game
 
+A basketball simulation game built with Nuxt.js and Vuex ORM
+
+Work In Progress...
+
 ## Build Setup
 
 ```bash

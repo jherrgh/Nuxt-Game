@@ -1,4 +1,4 @@
-# hsgm
+# Nuxt-Game
 
 ## Build Setup
 
